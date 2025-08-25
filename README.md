@@ -1,1 +1,76 @@
-# Aulas-CS
+Este repositório foi criado com o objetivo de documentar e compartilhar meus estudos em C# (CSharp).
+Aqui você encontrará exemplos práticos de código, exercícios resolvidos e pequenos projetos que utilizam conceitos fundamentais da linguagem.
+
+O foco principal é reforçar a lógica de programação, aprender sobre estruturas básicas e praticar a criação de métodos bem definidos, com documentação e testes simples no console.
+
+📌 Conteúdo abordado até agora
+
+Criação de métodos básicos em C#:
+
+AddNumbers: soma de dois números inteiros.
+
+Saudacao: retorna uma saudação personalizada com o nome do usuário.
+
+CalculateRectangleArea: cálculo da área de um retângulo.
+
+CalculateTriangleArea: cálculo da área de um triângulo.
+
+Multiply: exemplo de sobrecarga de métodos (aceitando tanto int quanto double).
+
+Exemplo prático com interação do usuário:
+Um programa que pede o nome e o raio de um círculo e retorna a área calculada junto de uma mensagem personalizada.
+
+🎯 Objetivo do repositório
+
+Consolidar o aprendizado em C#.
+
+Demonstrar o uso de métodos reutilizáveis.
+
+Praticar conceitos como entrada e saída de dados no console, operações matemáticas e boas práticas de código (documentação XML e organização).
+
+Servir como base para projetos mais avançados no futuro.
+
+📖 Exemplos de execução
+Cálculo da área do círculo
+Digite seu nome: Wesley
+Digite o raio do círculo: 10
+Wesley, a área do círculo é: 314,16
+
+Teste de métodos matemáticos
+=== Teste AddNumbers ===
+5 + 7 = 12
+10 + 20 = 30
+
+=== Teste Saudacao ===
+Olá, Wesley! Bem-vindo!
+Olá, Lyra! Bem-vindo!
+
+=== Teste Áreas ===
+Área do retângulo (5 x 3): 15
+Área do triângulo (base 10, altura 4): 20
+
+=== Teste Multiply ===
+Multiplicação de inteiros (6 * 4): 24
+Multiplicação de doubles (2.5 * 3.2): 8
+
+🔮 Melhorias futuras
+
+Adicionar mais exemplos de figuras geométricas.
+
+Implementar tratamento de erros para entradas inválidas.
+
+Criar uma interface gráfica simples (Windows Forms ou WPF).
+
+Iniciar testes automatizados para validar os métodos.
+
+👤 Autor
+
+Wesley Vieira
+
+💻 Estudante e desenvolvedor iniciante em C#
+
+🚀 Aprendendo programação de forma prática
+
+🌐 Meu GitHub
+
+✨ Este repositório faz parte do meu processo de aprendizado e evolução como programador. Cada código aqui representa um passo rumo ao domínio de C# e da lógica de programação.
